@@ -1,0 +1,23 @@
+{
+  "name": "automation-wizard",
+  "version": "1.0.0",
+  "description": "Playwright with Javascript",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dineshkutty/automation-wizard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dineshkutty/automation-wizard/issues"
+  },
+  "homepage": "https://github.com/Dineshkutty/automation-wizard#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.5"
+  }
+}
